@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co.com/z4FC8SQ/nasa-Q1p7bh3-SHj8-unsplash.jpg",
+        "title": "Exploring the World of Artificial Intelligence",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/yRSWyM4/girl2.jpg",
+        "posted_date": "2024-11-01",
+        "reading_time": 10,
+        "hashtags": ["#AI", "#Technology", "#MachineLearning"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co.com/1MZ0jhM/efe-kurnaz-Rn-CPi-Xixoo-Y-unsplash.jpg",
+        "title": "A Journey Through the History of Space Exploration",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/vvPQKW7/boy2.jpg",
+        "posted_date": "2024-11-03",
+        "reading_time": 7,
+        "hashtags": ["#Space", "#NASA", "#History"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co.com/yND0bQn/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+        "title": "Understanding Quantum Computing",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/hXWHMH1/girl1.jpg",
+        "posted_date": "2024-11-05",
+        "reading_time": 32,
+        "hashtags": ["#QuantumComputing", "#Science", "#Innovation"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co.com/Qd4r3xr/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+        "title": "The Future of Renewable Energy",
+        "author": "Bob Williams",
+        "author_img": "https://i.ibb.co.com/yRSWyM4/girl2.jpg",
+        "posted_date": "2024-11-07",
+        "reading_time": 19,
+        "hashtags": ["#RenewableEnergy", "#ClimateChange", "#GreenTech"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co.com/QpfyJWJ/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+        "title": "Top Trends in Web Development for 2024",
+        "author": "Emily Brown",
+        "author_img": "https://i.ibb.co.com/yRSWyM4/girl2.jpg",
+        "posted_date": "2024-11-10",
+        "reading_time": 9,
+        "hashtags": ["#WebDevelopment", "#Programming", "#2024Trends"]
+    }
+]
